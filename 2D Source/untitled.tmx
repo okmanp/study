@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="30" tileheight="30" nextobjectid="1">
+ <tileset firstgid="1" name="chipset6" tilewidth="30" tileheight="30">
+  <image source="chipset6.png" width="480" height="256"/>
+ </tileset>
+ <tileset firstgid="129" name="a2-tiles-with-overlays_2" tilewidth="30" tileheight="30">
+  <image source="a2-tiles-with-overlays_2.png" width="512" height="384"/>
+ </tileset>
+ <tileset firstgid="333" name="tilea4" tilewidth="30" tileheight="30">
+  <image source="tilea4.png" width="512" height="480"/>
+ </tileset>
+ <tileset firstgid="605" name="Teaser SS2" tilewidth="30" tileheight="30">
+  <image source="Teaser SS2.png" width="544" height="416"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzdOSXQEARNGbmdi2bdv+i9i2bdu2bdu2bdvOyifMec3tqvXYtWtFhEK1qUNd6lGfBjSkEY1pQlOa0ZwWtKQVrYnq2vi0pR3t6UBHOtGZLnSlG93pQU960Zs+9A3Q7efTnwEMZBCDGcJQhjGcEYxkFKMZw1jGMT5Ad4LPRCYxmSlMZRrTmcFMZjGbOcxlHvNZwMIA3UU+i1nCUpaxnBWsZBWrWcNa1rGeDWxkE5sDdLf4bGUb29nBTnaxmz3sZR/7OcBBDnGYIxwN0D3mc5wTnOQUpznDWc5xngtc5BKXucJVrnE9QPeGz01ucZs73OUe93nAQx7xmCc85RnPecHLAN1XPq95w1ve8Z4PfOQTn/nCV77xnR/85Be/A3T//PtEhkLRiCCS6MQgJrGITRziEo/4JCAhiUgcGfVuEp+kJCM5KUhJKlKThrSkIz0ZyEgmMpOFrAG62Xyyk4Oc5CI3echLPvJTgIIUojBFKEoxigfolvApSSlKU4aylKM8FahIJSpThapUozo1qBmgG1544YUXXnjh/T/7CwIQeps=
+  </data>
+ </layer>
+</map>
