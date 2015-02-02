@@ -1,0 +1,1 @@
+C:\unity\sum\obj\Debug\UnityVS.sum.CSharp.Editor.csprojResolveAssemblyReference.cache
