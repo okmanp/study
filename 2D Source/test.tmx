@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="30" tileheight="30" nextobjectid="1">
+ <tileset firstgid="1" name="chipset6" tilewidth="30" tileheight="30">
+  <image source="chipset6.png" width="480" height="256"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJwrYWBgUIbiMjrhUiAuAWJjKKa3vQPl35Fo72j8Du9wHrV31N5Re0ftHbV31N5Re+lr70C1nwfS3oHqp4yU/hEAgeWM2g==
+  </data>
+ </layer>
+</map>
